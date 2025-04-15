@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Questão1</string>
+    <string name="checkbox_1">Arroz (R$2,00)</string>
+    <string name="checkbox_2">Pão (R$2,00)</string>
+    <string name="checkbox_3">Bolacha (R$4,00)</string>
+    <string name="checkbox_4">Feijão (R$18,00)</string>
+    <string name="checkbox_5">Mandioca (R$7,00)</string>
+    <string name="button">Total da Compra</string>
+</resources>
