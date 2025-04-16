@@ -18,7 +18,7 @@
 </div>
 <h3>Questão 2</h3>
 <div>
-  <a href="https://github.com/BernardoSeijasCavalcante/AtividadeFECAP-ListaDeExercicio/blob/main/Question2/app-debug.aab">APK</a><br>
+  <a href="https://github.com/BernardoSeijasCavalcante/AtividadeFECAP-ListaDeExercicio/blob/main/Question2/app-debug.apk">APK</a><br>
   <a href="https://github.com/BernardoSeijasCavalcante/AtividadeFECAP-ListaDeExercicio/blob/main/Question2/Question2.zip">.ZIP</a>
 </div>
 <h3>Questão 3</h3>
