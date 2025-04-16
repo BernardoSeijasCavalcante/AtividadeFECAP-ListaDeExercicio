@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Question4</string>
+
+    <string name="telaDeBoasVindas_button">Fazer Pedido</string>
+
+    <string name="formularioPedido_textView1">Digite seu nome</string>
+    <string name="formularioPedido_textView2">Selecione o TIPO de lanche</string>
+    <string name="formularioPedido_radioButton1">Big King</string>
+    <string name="formularioPedido_radioButton2">Burguer King</string>
+    <string name="formularioPedido_radioButton3">King Chicken</string>
+    <string name="formularioPedido_radioButton4">King Bacon</string>
+    <string name="formularioPedido_button">Enviar</string>,
+
+    <string name="resumoPedido_button">Voltar</string>
+</resources>

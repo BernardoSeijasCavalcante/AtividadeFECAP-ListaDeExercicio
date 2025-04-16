@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Question3</string>
+    <string name="telaDeBoasVidas_button">CADASTRE-SE</string>
+
+    <string name="formularioDeCadastro_textView">Digite seu Nome</string>
+    <string name="formularioDeCadastro_button">Cadastrar</string>
+
+    <string name="confirmarCadastro_button">Voltar</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Question2</string>
+    <string name="textView1">Digite seu salário atual (R$).</string>
+    <string name="textView2">Selecione o percentual de aumento.</string>
+    <string name="radioButton1">40%</string>
+    <string name="radioButton2">45%</string>
+    <string name="radioButton3">50%</string>
+    <string name="button">Calcular Percentual</string>
+
+</resources>

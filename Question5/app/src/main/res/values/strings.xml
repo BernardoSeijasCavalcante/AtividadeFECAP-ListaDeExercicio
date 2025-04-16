@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Question5</string>
+    <string name="selecaoDaPizza_textView">Selecione o(s) sabor(es) da pizza</string>
+    <string name="selecaoDaPizza_checkBox1">Calabresa</string>
+    <string name="selecaoDaPizza_checkBox2">Portuguesa</string>
+    <string name="selecaoDaPizza_checkBox3">Marguerita</string>
+    <string name="selecaoDaPizza_checkBox4">Queijo</string>
+    <string name="nextButton">Próximo</string>
+    <string name="finalButton">Finalizar</string>
+    <string name="backButton">Refazer</string>
+
+    <string name="selecaoTamanhoPagamento_textView1">Selecione o tamanho da pizza</string>
+    <string name="selecaoTamanhoPagamento_textView2">Selecione a forma de pagamento</string>
+
+    <string name="selecaoTamanhoPagamento_radioButton1">Pequeno</string>
+    <string name="selecaoTamanhoPagamento_radioButton2">Médio</string>
+    <string name="selecaoTamanhoPagamento_radioButton3">Grande</string>
+
+    <string name="selecaoTamanhoPagamento_radioButton4">Cartão</string>
+    <string name="selecaoTamanhoPagamento_radioButton5">Dinheiro</string>
+
+</resources>
